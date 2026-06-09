@@ -98,7 +98,7 @@ Tests apply **equivalence class partitioning** and **boundary value analysis** t
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AMluisXVI/API-Test-Automation-Suite-for-Urban-Grocers.git
+git clone https://github.com/AMluisXVI/api-automation.git
 cd API-Test-Automation-Suite-for-Urban-Grocers
 
 # 2. Create and activate a virtual environment
@@ -195,7 +195,7 @@ Las pruebas aplican **partición de clases de equivalencia** y **análisis de va
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/AMluisXVI/API-Test-Automation-Suite-for-Urban-Grocers.git
+git clone https://github.com/AMluisXVI/api-automation.git
 cd API-Test-Automation-Suite-for-Urban-Grocers
 
 # 2. Crear y activar entorno virtual
